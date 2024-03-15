@@ -9,3 +9,8 @@ Original file is located at
 
 p= 'hello'
 print(p)
+
+
+name = '임서연'
+number = 201904479
+major = '컴퓨터전자시스템'
